@@ -1,9 +1,9 @@
 import React from "react";
-import MyTitleForm from "./MyTitleForm";
+import Counter from "./Counter";
 
 const App = () => (
   <div>
-    <MyTitleForm />
+    <Counter />
   </div>
 );
 
